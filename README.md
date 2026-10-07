@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-  <img src="assets/banner-light.svg" width="100%" alt="Suphanat Saradee, Software Engineer at GISTDA. Animated radar scanning for drones." />
+  <img src="assets/banner-light.svg" width="100%" alt="Suphanat Saradee, Software Engineer at GISTDA. Animated map of Thailand tracking drones near Chonburi." />
 </picture>
 
 <p align="center">
