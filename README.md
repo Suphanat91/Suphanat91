@@ -29,8 +29,8 @@ const suphanat = {
 ## `> stack`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,js,ts,php,react,angular,nextjs,vite,html,css,tailwind,mysql,docker,linux,git,arduino&perline=9&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,php,react,angular,nextjs,vite,html,css,tailwind,mysql,docker,linux,git,arduino&perline=9&theme=light" alt="C, C++, JavaScript, TypeScript, PHP, React, Angular, Next.js, Vite, HTML, CSS, Tailwind, MySQL, Docker, Linux, Git, Arduino" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cjs%2Cts%2Cphp%2Creact%2Cangular%2Cnextjs%2Cvite%2Chtml%2Ccss%2Ctailwind%2Cmysql%2Cdocker%2Clinux%2Cgit%2Carduino&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Cjs%2Cts%2Cphp%2Creact%2Cangular%2Cnextjs%2Cvite%2Chtml%2Ccss%2Ctailwind%2Cmysql%2Cdocker%2Clinux%2Cgit%2Carduino&perline=9&theme=light" alt="C, C++, JavaScript, TypeScript, PHP, React, Angular, Next.js, Vite, HTML, CSS, Tailwind, MySQL, Docker, Linux, Git, Arduino" />
 </picture>
 
 ## `> ls ./featured`
